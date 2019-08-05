@@ -89,9 +89,10 @@ def gen_passwords(options):
         entropy = math.log(total_words**options.words) / math.log(2)
         print()
         print('Stats: ')
-        print('  Used Words: {words}'.format(words=len(words)))
-        print('  Excluded words: {excluded}'.format(excluded=excluded))
-        print('  Entropy: {bits:.2f} bits per phrase'.format(bits=entropy))
+        print('  Source: {}'.format(options.word_file))
+        print('  Used Words: {}'.format(len(words)))
+        print('  Excluded words: {}'.format(excluded))
+        print('  Entropy: {:.2f} bits per phrase'.format(entropy))
 
 
 def main():

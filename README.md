@@ -6,18 +6,19 @@ easiest way to explain it is via an example:
 
 ```sh
 $ diceware
-fallow server saving reupholstering
-pillages prop fierce gaps
-mainstays lagging transited wheezier
-upending choruses suffered invisibility
-robberies plaintiffs moderation mobilize
-fulcrums penitential cultivate peppered
-betwixt hyaenas sieges badmouthed
-redbreast snuggle hectored forebodings
-horseman wackiness resoluteness detach
-hogshead broomstick therapy destabilize
+confederations particulates bait wisest
+airbrushes vaster flats authenticates
+disoblige messed mines wallowed
+ennoble bazookas prettifying dumbfounds
+shufflers ells demographically mailer
+caveat propensities crossover spidery
+cheapskates forfeiting bivalves contraceptives
+amounts snubbing punctuated heroics
+unrealistically gauche alleluias unpreventable
+losing decaffeinated willowiest mamboing
 
 Stats:
+  Source: /usr/share/dict/words
   Used Words: 63006
   Excluded words: 36165
   Entropy: 63.77 bits per phrase
