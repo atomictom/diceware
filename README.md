@@ -6,25 +6,25 @@ easiest way to explain it is via an example:
 
 ```sh
 $ diceware
-confederations particulates bait wisest
-airbrushes vaster flats authenticates
-disoblige messed mines wallowed
-ennoble bazookas prettifying dumbfounds
-shufflers ells demographically mailer
-caveat propensities crossover spidery
-cheapskates forfeiting bivalves contraceptives
-amounts snubbing punctuated heroics
-unrealistically gauche alleluias unpreventable
-losing decaffeinated willowiest mamboing
+beautifiers mildews snagging dries suburbia
+lizard hated disported chair graciousness
+speediest tyrannizing fluidly laddering armband
+duct juniper mayonnaise virulence klutzy
+reverberating enfeebles winch escapee site
+unseen spiels racketeering correlatives strum
+confetti egg corsets selectmen shadowing
+preordained discloses slaughterhouses decency gad
+disposes shoguns nearing sensations palliation
+mars rumbaing picking existentially ardors
 
 Stats:
   Source: /usr/share/dict/words
   Used Words: 63006
   Excluded words: 36165
-  Entropy: 63.77 bits per phrase
+  Entropy: 79.72 bits per phrase
 ```
 
-By default it generates a few (10) passphrases, each with 4 words using
+By default it generates a few (10) passphrases, each with 5 words using
 `/usr/share/dict/words` with a regex to blacklist any with capital letters or
 single apostrophes (i.e. it blacklists `[A-Z']`). It also reports on how many
 words were used, how many were excluded, and what the effective entropy is
